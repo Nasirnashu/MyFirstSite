@@ -6,4 +6,5 @@ padding: auto;
 .main-menu ul li a{
 float: right;
 color: rgb(46, 230, 22);
+  style: none;
 }
